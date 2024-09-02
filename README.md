@@ -66,7 +66,3 @@ I'm always eager to merge my interests in **aeronautics** and **web technologies
 ## 🌟 Let's Connect!
 
 I’m always open to collaboration, learning, and sharing knowledge. Feel free to reach out via email or LinkedIn. Let’s make something amazing together!
-
-<p align="center">
-  <img src="https://github.com/saadkarim754/saadkarim754/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
