@@ -2,8 +2,8 @@
 
 📍 **Location:** Nowshera District, Khyber Pakhtunkhwa, Pakistan  
 📧 **Email:** saadkarim754@gmail.com  
-🔗 **LinkedIn:** [mian-saad-karim-842750201](https://www.linkedin.com/in/mian-saad-karim/)
-🌐 **Portfolio:** [saadkarim.me](https://miansaadkarim.me)
+🔗 **LinkedIn:** [mian saad karim](https://www.linkedin.com/in/mian-saad-karim/)
+🌐 **Portfolio:** [saad.me](https://miansaadkarim.me)
 
 ## 🛠️ About Me
 
