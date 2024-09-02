@@ -34,8 +34,9 @@ I'm always eager to merge my interests in **aeronautics** and **web technologies
 ## 📈 Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=saadkarim754&theme=react-dark&hide_border=true&area=true" alt="Mian Saad Karim's Contribution Graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadkarim754&theme=default" alt="Mian Saad Karim's Contributions Summary" />
 </div>
+
 
 ## 🔄 languages
 
